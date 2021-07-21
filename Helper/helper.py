@@ -19,5 +19,4 @@ The files provided are in multiple qualities to download just open file in chrom
 To report any Problems, Bugs, Suggestions go to @Yeageristbotsdev
 
 Note : This bot is only for adult'''
-Bot by - @Pain_to_this_world
 
