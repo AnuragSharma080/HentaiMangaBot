@@ -6,7 +6,7 @@ sexual desire or perverse sexual act since in the vast majority of porn manga we
 
 Note : This Bot Is only for adults
 
-If Any Abuse About This Bot you can report @Yeageristbotsdev
+If Any Abuse About This Bot you can report @Pain_to_this_world
 
 Use /help to know commands and how to use this bot'''
 
@@ -19,4 +19,5 @@ The files provided are in multiple qualities to download just open file in chrom
 To report any Problems, Bugs, Suggestions go to @Yeageristbotsdev
 
 Note : This bot is only for adult'''
+Bot by - @Pain_to_this_world
 
