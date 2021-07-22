@@ -16,7 +16,7 @@ help_text = '''List of commands:
                                
 The files provided are in multiple qualities to download just open file in chrome
                                
-To report any Problems, Bugs, Suggestions go to @Yeageristbotsdev
+To report any Problems, Bugs, Suggestions go to @splits_support
 
 Note : This bot is only for adult'''
 
