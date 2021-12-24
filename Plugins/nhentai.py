@@ -11,7 +11,7 @@ class Nhentai():
             await bot.send_message(
                 event.chat_id,
                 'Hentai Manga not found Command must be used like this\n/nh <hentai code\nexample: /nh 339989',
-                file='https://telegra.ph/file/9818bc566b12174cc077d.mp4'
+                file='https://telegra.ph/file/ebe8484d678f49948a2a3.mp4'
             )
         elif '/nh' in event.raw_text:
             text = event.raw_text.split()
@@ -21,6 +21,6 @@ class Nhentai():
             format.manga_chapter_html(f"{code}", chapter)
             await bot.send_message(
                 event.chat_id,
-                "Open this in google chrome",
+                "You must open this in google chrome",
                 file= f"{code}.html"
             )
