@@ -32,16 +32,8 @@ To run this project, you will need to add the following environment variables to
 
 ## Deployment 
 
-### Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pain-Senpai/HentaiMangaBot)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/HentaiMangaBot)
-
-
-
-
-## Creator
-
-- [Achu biju](https://github.com/Achu2234/HentaiMangaBot)Dev
 
 
 ## Thanks To
