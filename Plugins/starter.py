@@ -16,9 +16,8 @@ class start():
     async def event_handler_help(event):
         await bot.send_message(
             event.chat_id,
-            help_text,
-            text='Hey there User kun! I am here To Provide you doujins manga easily with the doujins code! Do not get too horny while reading them oni chan!'
-            )
+            help_text
+       )
 
     @bot.on(events.NewMessage(pattern="/source"))
     async def event_handler_source(event):
