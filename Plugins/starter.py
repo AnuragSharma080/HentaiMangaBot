@@ -1,15 +1,13 @@
 from Helper.helper import start_text, help_text
 from config import bot
 from telethon import events
-
 class start():
-
     @bot.on(events.NewMessage(pattern="/start"))
     async def event_handler_start(event):
         await bot.send_message(
             event.chat_id,
             start_text,
-            file='https://telegra.ph/file/1cf0b127f3c888b1d1b21.mp4'
+            file='https://telegra.ph/file/0825336417b74a6c10fd7.mp4'
         )
 
     @bot.on(events.NewMessage(pattern="/help"))
@@ -23,6 +21,5 @@ class start():
     async def event_handler_source(event):
         await bot.send_message(
             event.chat_id,
-            '[Bot Dev](https://t.me/Yeageristbotsdev)\nThis bot was hosted on Heroku'
+            '[Network](https://t.me/Project_Tsukiyomi/6)\nProvides you some doujins'
         )
-    
