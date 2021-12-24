@@ -9,20 +9,21 @@ class start():
         await bot.send_message(
             event.chat_id,
             start_text,
-            file='https://telegra.ph/file/912c648c20b91074b6f9e.mp4'
+            file='https://telegra.ph/file/0825336417b74a6c10fd7.mp4'
         )
 
     @bot.on(events.NewMessage(pattern="/help"))
     async def event_handler_help(event):
         await bot.send_message(
             event.chat_id,
-            help_text
+            help_text,
+            text='Hey there User kun! I am here To Provide you doujins manga easily with the doujins code! Do not get too horny while reading them oni chan!'
             )
 
     @bot.on(events.NewMessage(pattern="/source"))
     async def event_handler_source(event):
         await bot.send_message(
             event.chat_id,
-            '[Bot Dev](https://t.me/Pain_to_this_world)\nThis bot was hosted on Heroku'
+            '[Network](https://t.me/Project_Tsukiyomi/6)\nProvides you some doujins'
         )
     
